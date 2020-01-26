@@ -3,13 +3,13 @@
 "use strict";
 
 var ZOTERO_CONFIG = {
-    "publicGroupId": "2055673",  // ID of public group to search in Zotero
-    "limit": 10,  // Max number of results to retrieve per page
+    "publicGroupId": "4594278",  // ID of  group to search in Zotero - LTER Network
+    "limit": 20,  // Max number of results to retrieve per page
     "resultsElementId": "searchResults",  // Element to contain results
     "urlElementId": "searchUrl",  // Element to display search URL
     "countElementId": "resultCount",  // Element showing number of results
     "pagesElementId": "pagination",  // Element to display result page links
-    "showPages": 5  // MUST BE ODD NUMBER! Max number of page links to show
+    "showPages": 9  // MUST BE ODD NUMBER! Max number of page links to show
 };
 
 
